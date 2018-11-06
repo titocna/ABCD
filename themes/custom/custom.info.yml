@@ -1,0 +1,10 @@
+name: Custom Theme
+description: 'Un thème développer pour ce site'
+base theme: classy
+package: Custom
+type: theme
+version: 1.0
+core: 8.x
+
+libraries:
+  - custom/global-styling
