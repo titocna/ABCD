@@ -1,0 +1,14 @@
+uuid: 918ca401-7525-4bc7-91a2-d5d44e35baf6
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - titocna@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
