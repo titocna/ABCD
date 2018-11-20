@@ -1,4 +1,4 @@
-uuid: 29181987-d7a3-475c-b600-89cf35223294
+uuid: f8f34837-1f34-4f2c-a11f-0dcdf365214d
 name: 'Badminton Club de Dumbéa'
 mail: titocna@gmail.com
 slogan: ''
@@ -8,7 +8,7 @@ page:
   front: /node
 admin_compact_mode: false
 weight_select_max: 100
-langcode: fr
-default_langcode: fr
+langcode: en
+default_langcode: en
 _core:
   default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
